@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/30018202-007d-4be4-af08-6911b01d8e72)# 计算机操作初级课程
+# 计算机操作初级课程
 
 This is a operation system course for entry-level learner. Course designed by [Assistant Prof. Chenlei Lv](https://aliexken.github.io/),
 Shenzhen University, with assistance from [VCCLab](https://vcc.tech/index.html) and [CSSE](https://csse.szu.edu.cn/).
@@ -30,6 +30,8 @@ Shenzhen University, with assistance from [VCCLab](https://vcc.tech/index.html) 
 
 ## 推荐线上课程
 
-推荐南京大学蒋炎岩老师的操作系统线上课程
+推荐南京大学蒋炎岩老师的操作系统线上课程：
+
 [操作系统项目主页](https://jyywiki.cn/OS/2022/index.html)
+
 [B站视频链接](https://space.bilibili.com/202224425/channel/collectiondetail?sid=2237004)
