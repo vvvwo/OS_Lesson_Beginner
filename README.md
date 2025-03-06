@@ -18,15 +18,13 @@ Shenzhen University, with assistance from [VCCLab](https://vcc.tech/index.html) 
 
 根据计算机操作系统初级课程的要求，内容包括：
 
- 1. [XV6环境配置](https://github.com/vvvwo/CG_Lesson/tree/main/Lesson1)
+ 1. [XV6环境配置]()
  2. [进程概念]()
- 3. [键盘与鼠标交互](https://github.com/vvvwo/CG_Lesson/tree/main/Lesson3)
- 4. [三维模型变换](https://github.com/vvvwo/CG_Lesson/tree/main/Lesson4)
- 5. [三维模型读取与显示](https://github.com/vvvwo/CG_Lesson/tree/main/Lesson5)
- 6. [相机定位与投影]()
- 7. [光照模型]()
- 8. [纹理映射]()
- 9. [课程大作业]()
+ 3. [处理机调度与死锁]()
+ 4. [存储器管理]()
+ 5. [设备管理]()
+ 6. [文件系统]()
+ 7. [综合复习]() 
 
 ## 推荐线上课程
 
