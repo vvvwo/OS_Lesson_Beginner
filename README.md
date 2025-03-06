@@ -18,7 +18,7 @@ Shenzhen University, with assistance from [VCCLab](https://vcc.tech/index.html) 
 
 根据计算机操作系统初级课程的要求，内容包括：
 
- 1. [XV6环境配置]()
+ 1. [XV6环境配置](https://github.com/vvvwo/OS_Lesson_Beginner/tree/main/Lesson1)
  2. [进程概念]()
  3. [处理机调度与死锁]()
  4. [存储器管理]()
