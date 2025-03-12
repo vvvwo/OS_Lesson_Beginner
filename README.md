@@ -24,7 +24,8 @@ Shenzhen University, with assistance from [VCCLab](https://vcc.tech/index.html) 
  4. [存储器管理]()
  5. [设备管理]()
  6. [文件系统]()
- 7. [综合复习]() 
+ 7. [综合复习]()
+ 8. [XV6实验部分](https://github.com/vvvwo/OS_Lesson_Beginner/tree/main/Lesson8)
 
 ## 推荐线上课程
 
